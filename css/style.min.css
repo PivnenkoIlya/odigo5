@@ -139,22 +139,18 @@ h6 {
   font-size: inherit;
   font-weight: inherit;
 }
-body {
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
-  font-size: 16px;
-  color: #102746;
-  font-weight: 400;
-  background-color: #fff;
-}
+
 img {
   display: block;
   max-width: 100%;
   height: auto;
 }
+
 body {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   font-size: 16px;
   color: #102746;
+  /* color: yellow; */
   font-weight: 400;
   background-color: #fff;
 }
@@ -880,11 +876,4 @@ body > * {
 }
 body {
   overflow-x: hidden;
-}
-body {
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
-  font-size: 16px;
-  color: #102746;
-  font-weight: 400;
-  background-color: #fff;
 }
