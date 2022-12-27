@@ -152,6 +152,7 @@ body {
   color: #102746;
   font-weight: 400;
   background-color: #fff;
+  
 }
 .lock body {
   overflow: hidden;
@@ -160,6 +161,7 @@ body {
 }
 
 body {
+  overflow-x: hidden;
   min-height: 100%;
   display: flex;
   flex-direction: column;
