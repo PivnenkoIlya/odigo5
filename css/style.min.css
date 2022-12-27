@@ -769,10 +769,6 @@ body > * {
   transform: rotate(-45deg);
 }
 
-body {
-  overflow-y: auto;
-}
-
 .footer {
   background: #0e1d28;
   padding: 118px 0;
