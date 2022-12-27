@@ -877,3 +877,6 @@ body {
   padding-right: 65px;
   color: red;
 }
+body {
+  overflow-x: hidden;
+}
