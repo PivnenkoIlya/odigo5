@@ -770,7 +770,7 @@ body > * {
 }
 
 body {
-  overflow: auto;
+  overflow-y: auto;
 }
 
 .footer {
